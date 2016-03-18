@@ -1,0 +1,10 @@
+#container {
+	margin: 1em auto;
+	max-width: 600px;
+	background-color: #DDD;
+	padding: 1em;
+}
+
+a.active {
+	font-weight: bold;
+}
