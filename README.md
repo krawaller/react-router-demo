@@ -1,1 +1,1 @@
-This is a tiny demo of [React Router](https://github.com/reactjs/react-router/), and a part of [Edument's React course](http://edument.se/en/training/webdevelopment/react-js). See the app live [here]().
+This is a tiny demo of [React Router](https://github.com/reactjs/react-router/), and a part of [Edument's React course](http://edument.se/en/training/webdevelopment/react-js). See the app live [here](http://blog.krawaller.se/react-router-demo/).
